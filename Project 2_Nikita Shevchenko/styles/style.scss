@@ -146,7 +146,9 @@ main{
             display: flex;
             justify-content: center;
             align-items: center;
-            width: 496px;
+           /* width: 496px;
+            height: 630px; */
+            width: 417px;
             height: 630px;
             background-color: #f8f8f8;
             margin-bottom: 67px;
@@ -194,10 +196,10 @@ footer{
         margin-bottom: 58px;
         &::after{
             content: "";
-            top: 90%;
+            bottom: 0px;
             left: 50%;
             transform: translateX(-50%);
-            width: 15%;
+            width: 178.03px;
             height: 1px;
             position: absolute;
             background-color: #707070;
