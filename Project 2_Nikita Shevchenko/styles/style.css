@@ -175,6 +175,12 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  /*.underline{
+      width: 178.03px;
+      height: 1px;
+      background-color: #707070;
+      margin-bottom: 58px;
+  } */
 }
 footer h3 {
   text-align: center;
