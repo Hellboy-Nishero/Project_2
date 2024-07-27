@@ -17,14 +17,14 @@ header {
   background-color: #f8f8f8;
   margin-bottom: 43px;
 }
-header .right-side {
+header .left-side {
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-header .right-side h2 {
+header .left-side h2 {
   position: absolute;
   top: 104px;
   left: 133px;
@@ -32,7 +32,7 @@ header .right-side h2 {
   line-height: 44.64px;
   font-weight: 300;
 }
-header .right-side h1 {
+header .left-side h1 {
   text-align: center;
   width: 877px;
   height: 215px;
@@ -43,7 +43,7 @@ header .right-side h1 {
   margin-bottom: 43px;
   margin-top: 53px;
 }
-header .right-side p {
+header .left-side p {
   text-align: center;
   width: 575px;
   color: #161515;
@@ -51,11 +51,11 @@ header .right-side p {
   line-height: 49.6px;
   font-weight: 300;
 }
-header .right-side .buy-info {
+header .left-side .buy-info {
   display: flex;
   margin-top: 61px;
 }
-header .right-side .buy-info .btn {
+header .left-side .buy-info .btn {
   width: 282px;
   height: 82px;
   background-color: #161515;
@@ -65,7 +65,7 @@ header .right-side .buy-info .btn {
   font-weight: 300;
   font-family: league spartan;
 }
-header .right-side .buy-info span {
+header .left-side .buy-info span {
   display: flex;
   justify-content: center;
   align-items: center;
